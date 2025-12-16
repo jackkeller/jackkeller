@@ -3,9 +3,8 @@
 
 You can check out my writing at [jackkeller.dev](https://www.jackkeller.dev) or even shoot me an [email](mailto:jack@jackkeller.dev) if you wanted to collaborate on something!
 
-<!--
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackkeller&langs_count=5&icon_color=0891b2&bg_color=21212100&hide_border=false&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
--->
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackkeller&langs_count=5&icon_color=0891b2&bg_color=21212100&hide_border=false&locale=en&custom_title=Writes%20%In" alt="Top Languages" />
 
 <!--
 **jackkeller/jackkeller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
